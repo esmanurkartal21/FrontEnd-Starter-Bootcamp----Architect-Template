@@ -3,7 +3,6 @@ import React from "react";
 function ImageOfLocation() {
   return (
     <>
-      {/* Image of location/map */}
       <div className="w3-container">
         <img
           src="https://www.w3schools.com/w3images/map.jpg"
